@@ -1,4 +1,4 @@
-<h1 align="center">💬 Nino - AI Chatbot</h1>
+<h1 align="center">CHATBOT</h1>
 <h3 align="center">An artificial intelligence chatbot able to learn. Made with html, css, javascript and firebase.</h3>
 
 <p align="center">
