@@ -24,12 +24,6 @@
 
 ---
 
-<p align="center">
-  <img alt="Layout" src="https://user-images.githubusercontent.com/43749971/111331199-6c278600-864f-11eb-9548-a959db021f67.gif">
-</p>
-
----
-
 ## 💡 About the project
 
 - This is an open source project of an artificial intelligence chatbot capable of learning new answers. This project was done using html, css (Bootstrap 4), javascript (JQuery) and Firebase.
