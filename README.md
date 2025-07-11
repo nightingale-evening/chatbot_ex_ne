@@ -2,16 +2,16 @@
 <h3 align="center">An artificial intelligence chatbot able to learn. Made with html, css, javascript and firebase.</h3>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/johnggli/nino?color=%23FF669D">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/nightingale-evening/chatbot_ex_ne?color=%23FF669D">
   
-  <a href="https://www.linkedin.com/in/johnggli/">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-John%20Emerson-%23FF669D">
+  <a href="https://www.linkedin.com/in/nightingale-evening/">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-nightingale%20eveing-%23FF669D">
   </a>
   
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/johnggli/nino?color=%23FF669D">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/nightingale-evening/chatbot_ex_ne?color=%23FF669D">
   
-  <a href="https://github.com/johnggli/nino/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/johnggli/nino?color=%23FF669D">
+  <a href="https://github.com/nightingale-evening/chatbot_ex_ne/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/nightingale-evening/chatbot_ex_ne?color=%23FF669D">
   </a>
 </p>
 
@@ -34,8 +34,6 @@
 
 - This is an open source project of an artificial intelligence chatbot capable of learning new answers. This project was done using html, css (Bootstrap 4), javascript (JQuery) and Firebase.
 
-- [Live demo](https://ninoai.netlify.app)
-
 ## 🚀 Getting started
 
 - First, go to the [Firebase Console](https://console.firebase.google.com) and create a new project.
@@ -57,10 +55,10 @@ const firebaseConfig = {
 
 var config = {
   API_KEY: '000000000000000000000000000000000000000',
-  AUTH_DOMAIN: 'nino.firebaseapp.com',
+  AUTH_DOMAIN: 'chatbot_ex_ne.firebaseapp.com',
   DATABASE_URL: 'https://nino-default-rtdb.firebaseio.com',
-  PROJECT_ID: 'nino',
-  STORAGE_BUCKET: 'nino.appspot.com',
+  PROJECT_ID: 'chatbot_ex_ne',
+  STORAGE_BUCKET: 'chatbot_ex_ne.appspot.com',
   MESSAGING_SENDER_ID: '000000000000',
   APP_ID: '1:000000000000:web:0000000000000000000000'
 };
@@ -82,4 +80,4 @@ This project is under the MIT license. See the [LICENSE](LICENSE.md) file for mo
 
 ---
 
-Made with ❤️ by John Emerson :wave: [Get in touch](https://johnggli.github.io/linktree)
+Made with ❤️ by Nightingale
